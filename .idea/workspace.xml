@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b5df2e6f-b50c-4e0e-af73-7faca38751f9" name="Changes" comment="Day1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyWork/EDA1.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +46,14 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Programming\Python Repo\Machine Learning\HousingPricesDataset\Data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Programming\Python Repo\Machine Learning\HousingPricesDataset\MyWork" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="EDA" />
@@ -89,7 +96,7 @@
       <workItem from="1656410210536" duration="436000" />
       <workItem from="1656410680839" duration="859000" />
       <workItem from="1656411560622" duration="556000" />
-      <workItem from="1656420442344" duration="907000" />
+      <workItem from="1656420442344" duration="2663000" />
     </task>
     <task id="LOCAL-00001" summary="Updating Files">
       <created>1656410347403</created>
@@ -147,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656412021292</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Day1">
+      <created>1656421422227</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1656421422227</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
