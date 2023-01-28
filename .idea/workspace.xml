@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5df2e6f-b50c-4e0e-af73-7faca38751f9" name="Changes" comment="Day1">
+    <list default="true" id="b5df2e6f-b50c-4e0e-af73-7faca38751f9" name="Changes" comment="Day2">
+      <change beforePath="$PROJECT_DIR$/.idea/HousingPricesDataset.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/HousingPricesDataset.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyWork/House_Price_Prediction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MyWork/House_Price_Prediction.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,20 +32,24 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2AINATay3dr0CLkfYbGEjJgCUSm" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Programming/Python Repo/Machine Learning/HousingPricesDataset/Data",
+    "last_opened_file_path": "D:/Programming/Python Repo/Machine Learning/HousingPricesDataset",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
@@ -96,7 +103,10 @@
       <workItem from="1656410210536" duration="436000" />
       <workItem from="1656410680839" duration="859000" />
       <workItem from="1656411560622" duration="556000" />
-      <workItem from="1656420442344" duration="2663000" />
+      <workItem from="1656420442344" duration="2926000" />
+      <workItem from="1656485306540" duration="5827000" />
+      <workItem from="1658385074566" duration="58000" />
+      <workItem from="1674910674388" duration="1060000" />
     </task>
     <task id="LOCAL-00001" summary="Updating Files">
       <created>1656410347403</created>
@@ -161,7 +171,35 @@
       <option name="project" value="LOCAL" />
       <updated>1656421422227</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Day1">
+      <created>1656428133026</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1656428133026</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Day2">
+      <created>1656487308196</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1656487308196</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Day2">
+      <created>1656494063445</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1656494063445</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Day2">
+      <created>1656495175451</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1656495175451</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,9 +229,11 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Updating Files" />
     <MESSAGE value="Day1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day1" />
+    <MESSAGE value="Day2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day2" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
   </component>
 </project>
