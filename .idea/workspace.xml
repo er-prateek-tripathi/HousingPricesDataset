@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5df2e6f-b50c-4e0e-af73-7faca38751f9" name="Changes" comment="Day3">
+    <list default="true" id="b5df2e6f-b50c-4e0e-af73-7faca38751f9" name="Changes" comment="Day4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Helping Hand/Feature Engineering.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Helping Hand/Feature Engineering.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MyWork/House_Price_Prediction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MyWork/House_Price_Prediction.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +60,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.general",
+    "settings.editor.selected.configurable": "preferences.keymap",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -119,7 +120,7 @@
       <workItem from="1674910674388" duration="1060000" />
       <workItem from="1674923795295" duration="2652000" />
       <workItem from="1674926832467" duration="3455000" />
-      <workItem from="1674956901036" duration="1838000" />
+      <workItem from="1674956901036" duration="5102000" />
     </task>
     <task id="LOCAL-00001" summary="Updating Files">
       <created>1656410347403</created>
@@ -226,7 +227,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674931542810</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Day4">
+      <created>1674958925812</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1674958925812</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -261,7 +269,8 @@
     <MESSAGE value="Day1" />
     <MESSAGE value="Day2" />
     <MESSAGE value="Day3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day3" />
+    <MESSAGE value="Day4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day4" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
   </component>
 </project>
